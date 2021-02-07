@@ -28,12 +28,11 @@ this default list doesn't start at 0 so it's not that cool
 
 > okay, this is epic
 
-# link to the readme file
-
-
+## read my readme file on github for more info
+:)
 
 ###### the big finisher
 ![cute panda i found on the internet](https://sites.psu.edu/siowfa16/files/2016/09/panda_lazy_on-rock_0-22bmbel.jpg)
 
 Wow. Pandas are so cool. I wish I could import them for real.
--Owen
+# -Owen
