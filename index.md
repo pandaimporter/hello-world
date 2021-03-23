@@ -5,7 +5,7 @@ Welcome to my page. Here I'll have a whole bunch of useful links and stuff which
 
 ## Project Page Links (DATA 310)
 
-[https://github.com/pandaimporter/hello-world/gh-pages](310_midterm)
+>Midterm: https://pandaimporter.github.io/midterm_project/
 
 
 ![cute panda i found on the internet](https://sites.psu.edu/siowfa16/files/2016/09/panda_lazy_on-rock_0-22bmbel.jpg)
