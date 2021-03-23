@@ -1,38 +1,13 @@
-## 'hello world'
+## Hello World!
 
-Very fancy. I like this template a lot.
+Welcome to my page. Here I'll have a whole bunch of useful links and stuff which will update as necessary.  
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. Much easier than the LaTeX stuff I have to use in my math classes.
+## Project Page Links (DATA 310)
 
-```markdown
-# machine learning is cool
-## math is pretty cool too
-###### machine learning AND math is a killer combination
+> Midterm: 
 
-```
 
-```markdown
-this default list doesn't start at 0 so it's not that cool
-
-1. Numbered
-2. List
-
-```
-
-## nice text examples
-**Bold** and _Italic_ and `Code` text
-
-## look, I can use funny quotes too!
-
-> okay, this is epic
-
-## read my readme file on github for more info
-:)
-
-###### the big finisher
 ![cute panda i found on the internet](https://sites.psu.edu/siowfa16/files/2016/09/panda_lazy_on-rock_0-22bmbel.jpg)
 
-Wow. Pandas are so cool. I wish I could import them for real.
 # -Owen
